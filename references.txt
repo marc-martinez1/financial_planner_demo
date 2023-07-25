@@ -1,0 +1,5 @@
+Reviewed the following websites to assist with the assignment:
+
+Noteable: How to Disable Warnings...
+
+https://noteable.io/blog/disable-warnings-in-jupyter/#:~:text=Jupyter%20Notebook%20Online-,Method%201%3A%20Using%20the%20warnings%20module,display%20of%20all%20warning%20messages.
